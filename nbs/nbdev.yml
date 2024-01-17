@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ionplus_toolbox"
+  site-url: "https://dmitryhits.github.io/ionplus_toolbox"
+  description: "tools I use at work"
+  repo-branch: main
+  repo-url: "https://github.com/dmitryhits/ionplus_toolbox"
